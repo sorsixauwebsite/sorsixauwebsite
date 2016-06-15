@@ -237,7 +237,7 @@ ul.nostyle i {
   height: 100%;
   color: #fff;
 }
-#main-slider .slider-inner h2 {
+#main-slider h2 {
   margin-top: 180px;
   font-size: 45px;
   line-height: 1;
@@ -245,7 +245,7 @@ ul.nostyle i {
   color: #fff;
 }
 
-#main-slider .slider-inner p {
+#main-slider p {
   font-size: 25px;
   color: #fff;
 }
